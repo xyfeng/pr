@@ -1,0 +1,24 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "sms system for pr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "twilio": "^3.7.0"
+  },
+  "devDependencies": {
+    "airline-codes": "^1.0.2",
+    "airport-codes": "^1.0.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "flight-designator": "^3.1.0",
+    "http": "0.0.0",
+    "node-rest-client": "^3.1.0"
+  }
+}
